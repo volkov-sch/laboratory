@@ -1,0 +1,6 @@
+[
+  {"id": 1, "title": "Маленький принц", "category": "Художественная", "amount": 96, "completed": false},
+  {"id": 2, "title": "Капитанская дочка", "category": "Художественная", "amount": 180, "completed": true},
+  {"id": 3, "title": "Изучаем Python", "category": "Учебная", "amount": 400, "completed": false},
+  {"id": 4, "title": "Атлас мира", "category": "Справочная", "amount": 120, "completed": true}
+]
